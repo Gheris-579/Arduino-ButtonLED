@@ -7,6 +7,7 @@ A simple Arduino project that turns an LED on or off using a push button. Ideal 
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
 - [Setup](#setup)
+- [Screen](#screen)
 
 ---
 
@@ -36,4 +37,6 @@ A simple Arduino project that turns an LED on or off using a push button. Ideal 
 6. Upload the sketch to the Arduino.  
 
 
+
+## Screen
 <img width="866" height="731" alt="Screenshot 2025-09-13 164337" src="https://github.com/user-attachments/assets/297fa59f-889c-4d0d-81d2-06676b0736d5" />
